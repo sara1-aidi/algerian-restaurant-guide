@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "827418514757",
+    "project_id": "restarant-f183c",
+    "storage_bucket": "restarant-f183c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827418514757:android:33f092e8e0685615f31a2c",
+        "android_client_info": {
+          "package_name": "com.example.number1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBADwtBLIDktcRQwXZuOrBJyiqLuvoWRZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
